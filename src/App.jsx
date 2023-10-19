@@ -6,7 +6,7 @@ import Searchbar from './components/Searchbar'
 function App() {
   const PRODUCTS = [
     { category: "Fruits", price: "₹120", stocked: true, name: "Apple" },
-    { category: "Fruits", price: "₹120", stocked: false, name: "Grapes" },
+    // { category: "Fruits", price: "₹120", stocked: false, name: "Grapes" },
     { category: "Fruits", price: "₹20", stocked: true, name: "Dragonfruit" },
     { category: "Fruits", price: "₹220", stocked: false, name: "Passionfruit" },
     { category: "Vegetables", price: "₹80", stocked: true, name: "Spinach" },
